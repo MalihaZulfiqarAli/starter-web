@@ -8,4 +8,8 @@ fara
 for project
 ## How to Contibute
 ## Maliha
+<<<<<<< Updated upstream
 ## Arsalan M
+=======
+## Arsalan
+>>>>>>> Stashed changes
